@@ -8,6 +8,7 @@
 |:-------:|:------:|:--------------------------------------------------------------------------------|:-----------|:----|
 | Level 0 | 120841 | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)   | 2026-07-10 |     |
 | Level 0 | 120847 | [최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | 2026-07-10 |     |
+| Level 0 | 120849 | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)       | 2026-07-10 |     |
 
 
 120824 -> 짝수 홀수 개수
