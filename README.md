@@ -16,7 +16,8 @@
 | Level 0 | 120897 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)          | 2026-07-13 | ✅ | [Java](./src/main/java/l120897/Solution.java) |
 | Level 0 | 120898 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)              | 2026-07-13 | ✅ | [Java](./src/main/java/l120898/Solution.java) |
 | Level 0 | 120899 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)       | 2026-07-13 | ✅ | [Java](./src/main/java/l120899/Solution.java) |
-| Level 0 | 120905 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)         | 2026-07-13 | ✅ | [Java](./src/main/java/l120905/Solution.java) |
+| Level 0 | 120905 | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905)       | 2026-07-13 | ✅ | [Java](./src/main/java/l120905/Solution.java) |
+| Level 0 | 120906 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906)       | 2026-07-13 | ✅ | [Java](./src/main/java/l120906/Solution.java) |
 
 
 120824 -> 짝수 홀수 개수
