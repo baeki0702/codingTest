@@ -11,7 +11,8 @@
 | Level 0 | 120849 | [모음 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849)           | 2026-07-10 | ✅ | [Java](./src/main/java/l120849/Solution.java) |
 | Level 0 | 120851 | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | 2026-07-10 | ✅ | [Java](./src/main/java/l120851/Solution.java) |
 | Level 0 | 120854 | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854)       | 2026-07-10 | ✅ | [Java](./src/main/java/l120854/Solution.java) |
-| Level 0 | 120889 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)    | 2026-07-13 | ✅ | [Java](./src/main/java/l120889/Solution.java) |
+| Level 0 | 120889 | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889)   | 2026-07-13 | ✅ | [Java](./src/main/java/l120889/Solution.java) |
+| Level 0 | 120893 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)        | 2026-07-13 | ✅ | [Java](./src/main/java/l120893/Solution.java) |
 
 
 120824 -> 짝수 홀수 개수
