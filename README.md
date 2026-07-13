@@ -15,7 +15,8 @@
 | Level 0 | 120893 | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)        | 2026-07-13 | ✅ | [Java](./src/main/java/l120893/Solution.java) |
 | Level 0 | 120897 | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897)          | 2026-07-13 | ✅ | [Java](./src/main/java/l120897/Solution.java) |
 | Level 0 | 120898 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)              | 2026-07-13 | ✅ | [Java](./src/main/java/l120898/Solution.java) |
-| Level 0 | 120899 | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120899)              | 2026-07-13 | ✅ | [Java](./src/main/java/l120899/Solution.java) |
+| Level 0 | 120899 | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899)              | 2026-07-13 | ✅ | [Java](./src/main/java/l120899/Solution.java) |
+| Level 0 | 120903 | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)              | 2026-07-13 | ✅ | [Java](./src/main/java/l120903/Solution.java) |
 
 
 120824 -> 짝수 홀수 개수
