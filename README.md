@@ -24,6 +24,7 @@
 | Level 0 | 120585 | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585)    | 2026-07-13 | ✅  | [Java](./src/main/java/l120585/Solution.java) |
 | Level 0 | 120818 | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)       | 2026-07-13 | ✅  | [Java](./src/main/java/l120818/Solution.java) |
 | Level 0 | 120813 | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813)       | 2026-07-13 | ✅  | [Java](./src/main/java/l120813/Solution.java) |
+| Level 0 | 181945 | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945)       | 2026-07-13 | ✅  | [Java](./src/main/java/l181945/Solution.java) |
 
 
 120824 -> 짝수 홀수 개수
