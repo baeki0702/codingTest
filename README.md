@@ -29,6 +29,6 @@
 | Level 0 | 181928 | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)         | 2026-07-13 | ✅  | [Java](./src/main/java/l181928/Solution.java) |
 | Level 0 | 181939 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)        | 2026-07-13 | ✅  | [Java](./src/main/java/l181939/Solution.java) |
 | Level 0 | 181940 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)         | 2026-07-13 | ✅  | [Java](./src/main/java/l181940/Solution.java) |
-
+| Level 0 | 120839 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)         | 2026-07-13 | ✅  | [Java](./src/main/java/l120839/Solution.java) |
 
 120824 -> 짝수 홀수 개수

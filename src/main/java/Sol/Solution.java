@@ -9,8 +9,8 @@ class Solution {
     }
 
     static void main() {
-        System.out.println(3^2);
-        String a = "123";
-        System.out.println(Integer.parseInt(a));
+        String a1 = "abc";
+        String a2 = "bc";
+        a1.contains(a2);
     }
 }
