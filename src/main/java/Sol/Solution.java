@@ -17,3 +17,4 @@ class Solution {
         System.out.println(Arrays.toString(solution(new int[]{2, 1, 6}, 1)));
     }
 }
+
