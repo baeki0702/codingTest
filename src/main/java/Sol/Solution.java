@@ -11,6 +11,7 @@ class Solution {
     static void main() {
         String a1 = "abc";
         String a2 = "bc";
-        a1.contains(a2);
+        String substring = a1.substring(1);
+        System.out.println(substring);
     }
 }
