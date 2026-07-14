@@ -34,5 +34,6 @@
 | Level 0 | 181841 | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841)          | 2026-07-14 | ✅  | [Java](./src/main/java/l181841/Solution.java) |
 | Level 0 | 120850 | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850)    | 2026-07-14 | ✅  | [Java](./src/main/java/l120850/Solution.java) |
 | Level 0 | 120895 | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)         | 2026-07-14 | ✅  | [Java](./src/main/java/l120895/Solution.java) |
+| Level 0 | 181844 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)     | 2026-07-14 | ✅  | [Java](./src/main/java/l181844/Solution.java) |
 
 120824 -> 짝수 홀수 개수

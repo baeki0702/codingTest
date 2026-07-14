@@ -1,5 +1,7 @@
 package Sol;
 
+import java.util.Arrays;
+
 class Solution {
     public String solution(String my_string, int n) {
         String answer = "";
@@ -9,9 +11,20 @@ class Solution {
     }
 
     static void main() {
-        String a1 = "abc";
+        String a1 = "abbc";
         String a2 = "bc";
-        String substring = a1.substring(1);
-        System.out.println(substring);
+
+        int answer = 0;
+        int num = 29183, k=1;
+        String str = Integer.toString(num);
+        String ind = Integer.toString(k);
+        // char ch = (char) (k + '0');
+        System.out.println(answer);
+        char[] charArray = str.toCharArray();
+        Arrays.sort(charArray);
+        int[] ia = {2,3,1};
+        String string = new String(charArray);
+        int abs = Math.abs(-4);
+        System.out.println(abs);
     }
 }
