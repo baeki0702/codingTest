@@ -30,5 +30,6 @@
 | Level 0 | 181939 | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)        | 2026-07-13 | ✅  | [Java](./src/main/java/l181939/Solution.java) |
 | Level 0 | 181940 | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)         | 2026-07-13 | ✅  | [Java](./src/main/java/l181940/Solution.java) |
 | Level 0 | 120839 | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)         | 2026-07-13 | ✅  | [Java](./src/main/java/l120839/Solution.java) |
+| Level 0 | 120811 | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)         | 2026-07-14 | ✅  | [Java](./src/main/java/l120811/Solution.java) |
 
 120824 -> 짝수 홀수 개수
