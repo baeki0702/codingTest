@@ -44,5 +44,6 @@
 | Level 0 | 181861 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)      | 2026-07-15 | ✅  | [Java](./src/main/java/l181861/Solution.java) |
 | Level 0 | 181864 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)         | 2026-07-15 | ✅  | [Java](./src/main/java/l181864/Solution.java) |
 | Level 0 | 181865 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)         | 2026-07-15 | ✅  | [Java](./src/main/java/l181865/Solution.java) |
+| Level 0 | 181868 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181886)       | 2026-07-15 | ✅  | [Java](./src/main/java/l181866/Solution.java) |
 
 120824 -> 짝수 홀수 개수
