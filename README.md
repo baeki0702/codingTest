@@ -49,5 +49,6 @@
 | Level 0 | 181868 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)        | 2026-07-15 | ✅  | [Java](./src/main/java/l181868/Solution.java) |
 | Level 0 | 181870 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)            | 2026-07-15 | ✅  | [Java](./src/main/java/l181870/Solution.java) |
 | Level 0 | 181873 | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873)   | 2026-07-15 | ✅  | [Java](./src/main/java/l181873/Solution.java) |
+| Level 0 | 181885 | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885)             | 2026-07-15 | ✅  | [Java](./src/main/java/l181885/Solution.java) |
 
 120824 -> 짝수 홀수 개수
