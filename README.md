@@ -44,6 +44,8 @@
 | Level 0 | 181861 | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861)      | 2026-07-15 | ✅  | [Java](./src/main/java/l181861/Solution.java) |
 | Level 0 | 181864 | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864)         | 2026-07-15 | ✅  | [Java](./src/main/java/l181864/Solution.java) |
 | Level 0 | 181865 | [간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865)         | 2026-07-15 | ✅  | [Java](./src/main/java/l181865/Solution.java) |
-| Level 0 | 181868 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181886)       | 2026-07-15 | ✅  | [Java](./src/main/java/l181866/Solution.java) |
+| Level 0 | 181866 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)       | 2026-07-15 | ✅  | [Java](./src/main/java/l181866/Solution.java) |
+| Level 0 | 181867 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)           | 2026-07-15 | ✅  | [Java](./src/main/java/l181867/Solution.java) |
+| Level 0 | 181868 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)        | 2026-07-15 | ✅  | [Java](./src/main/java/l181868/Solution.java) |
 
 120824 -> 짝수 홀수 개수
