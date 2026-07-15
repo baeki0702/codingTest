@@ -55,5 +55,6 @@
 | Level 0 | 181906 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)           | 2026-07-15 | ✅  | [Java](./src/main/java/l181906/Solution.java) |
 | Level 0 | 181909 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)               | 2026-07-15 | ✅  | [Java](./src/main/java/l181909/Solution.java) |
 | Level 0 | 181911 | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | 2026-07-15 | ✅  | [Java](./src/main/java/l181911/Solution.java) |
+| Level 0 | 181914 | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914)            | 2026-07-15 | ✅  | [Java](./src/main/java/l181914/Solution.java) |
 
 120824 -> 짝수 홀수 개수
