@@ -2,7 +2,7 @@
 
 프로그래머스에서 푼 알고리즘 문제들을 기록
 
-###  풀이 현황
+### 풀이 현황
 
 |   난이도   | 문제 번호  | 문제 이름                                                                               |   풀이 날짜    | 상태 |                     풀이 링크                     |
 |:-------:|--------|:------------------------------------------------------------------------------------|:----------:|:--:|:---------------------------------------------:|
@@ -37,5 +37,6 @@
 | Level 0 | 181844 | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844)     | 2026-07-14 | ✅  | [Java](./src/main/java/l181844/Solution.java) |
 | Level 0 | 181847 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)            | 2026-07-14 | ✅  | [Java](./src/main/java/l181847/Solution.java) |
 | Level 0 | 181849 | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)       | 2026-07-14 | ✅  | [Java](./src/main/java/l181849/Solution.java) |
+| Level 0 | 181926 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)        | 2026-07-15 | ✅  | [Java](./src/main/java/l181926/Solution.java) |
 
 120824 -> 짝수 홀수 개수
