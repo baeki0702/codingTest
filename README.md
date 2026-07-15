@@ -53,5 +53,6 @@
 | Level 0 | 181891 | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891)             | 2026-07-15 | ✅  | [Java](./src/main/java/l181891/Solution.java) |
 | Level 0 | 181895 | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895)           | 2026-07-15 | ✅  | [Java](./src/main/java/l181895/Solution.java) |
 | Level 0 | 181906 | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906)         | 2026-07-15 | ✅  | [Java](./src/main/java/l181906/Solution.java) |
+| Level 0 | 181909 | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909)             | 2026-07-15 | ✅  | [Java](./src/main/java/l181909/Solution.java) |
 
 120824 -> 짝수 홀수 개수
