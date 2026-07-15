@@ -47,5 +47,6 @@
 | Level 0 | 181866 | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866)       | 2026-07-15 | ✅  | [Java](./src/main/java/l181866/Solution.java) |
 | Level 0 | 181867 | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867)           | 2026-07-15 | ✅  | [Java](./src/main/java/l181867/Solution.java) |
 | Level 0 | 181868 | [공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868)        | 2026-07-15 | ✅  | [Java](./src/main/java/l181868/Solution.java) |
+| Level 0 | 181870 | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870)            | 2026-07-15 | ✅  | [Java](./src/main/java/l181870/Solution.java) |
 
 120824 -> 짝수 홀수 개수
