@@ -12,6 +12,7 @@ class Solution {
     static void main() {
         String a1 = "abbc";
         String a2 = "bc";
+        char[] charArray = a1.toCharArray();
 
         boolean contains = a1.contains(a2);
         String s = a1.replaceAll("ab", "rn");
