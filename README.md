@@ -38,5 +38,6 @@
 | Level 0 | 181847 | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847)            | 2026-07-14 | ✅  | [Java](./src/main/java/l181847/Solution.java) |
 | Level 0 | 181849 | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849)       | 2026-07-14 | ✅  | [Java](./src/main/java/l181849/Solution.java) |
 | Level 0 | 181926 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)        | 2026-07-15 | ✅  | [Java](./src/main/java/l181926/Solution.java) |
+| Level 0 | 181852 | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)       | 2026-07-15 | ✅  | [Java](./src/main/java/l181852/Solution.java) |
 
 120824 -> 짝수 홀수 개수
