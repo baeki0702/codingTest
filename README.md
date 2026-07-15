@@ -40,5 +40,6 @@
 | Level 0 | 181926 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)           | 2026-07-15 | ✅  | [Java](./src/main/java/l181926/Solution.java) |
 | Level 0 | 181852 | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852)          | 2026-07-15 | ✅  | [Java](./src/main/java/l181852/Solution.java) |
 | Level 0 | 181854 | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | 2026-07-15 | ✅  | [Java](./src/main/java/l181854/Solution.java) |
+| Level 0 | 181856 | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856)            | 2026-07-15 | ✅  | [Java](./src/main/java/l181856/Solution.java) |
 
 120824 -> 짝수 홀수 개수
