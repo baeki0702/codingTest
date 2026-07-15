@@ -5,6 +5,7 @@ class Solution {
         String answer = "";
         answer.length();
         int i = 3;
+        int even = 0, odd = 3;
         return my_string.substring(0, n);
     }
 
