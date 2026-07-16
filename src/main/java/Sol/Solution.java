@@ -1,21 +1,26 @@
 package Sol;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 class Solution {
-    public String solution(String my_string, int n) {
-        String answer = "";
-        answer.length();
-        int i = 3;
-        int even = 0, odd = 3;
-        return my_string.substring(0, n);
+    public static List<Integer> solution(int n) {
+        List<Integer> integerList = new ArrayList<>();
+        integerList.add(n);
+        int a = n;
+        while (a != 1) {
+            a = a % 2 == 0 ? a / 2 : 3 * a + 1;
+            integerList.add(a);
+        }
+        return integerList;
     }
 
     static void main() {
-        String a1 = "abbc";
-        String a2 = "bc";
-        char[] charArray = a1.toCharArray();
+        List<Integer> list = solution(10);
 
-        boolean contains = a1.contains(a2);
-        String s = a1.replaceAll("ab", "rn");
-        System.out.println(s);
+        int[] array = list.stream().mapToInt(i -> i.intValue()).toArray();
+
+        System.out.println(Arrays.toString(array));
     }
 }
