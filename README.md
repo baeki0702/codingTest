@@ -59,5 +59,6 @@
 | Level 0 | 181927 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)             | 2026-07-16 | ✅  | [Java](./src/main/java/l181927/Solution.java) |
 | Level 0 | 181919 | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919)           | 2026-07-16 | ✅  | [Java](./src/main/java/l181919/Solution.java) |
 | Level 0 | 181925 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)             | 2026-07-16 | ✅  | [Java](./src/main/java/l181925/Solution.java) |
+| Level 0 | 181930 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)             | 2026-07-16 | ✅  | [Java](./src/main/java/l181930/Solution.java) |
 
 120824 -> 짝수 홀수 개수
