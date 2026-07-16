@@ -62,5 +62,6 @@
 | Level 0 | 181930 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)             | 2026-07-16 | ✅  | [Java](./src/main/java/l181930/Solution.java) |
 | Level 0 | 181944 | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)             | 2026-07-16 | ✅  | [Java](./src/main/java/l181944/Solution.java) |
 | Level 0 | 120834 | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)             | 2026-07-16 | ✅  | [Java](./src/main/java/l120834/Solution.java) |
+| Level 0 | 181829 | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829)      | 2026-07-16 | ✅  | [Java](./src/main/java/l181829/Solution.java) |
 
 120824 -> 짝수 홀수 개수
