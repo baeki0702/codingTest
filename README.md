@@ -73,5 +73,6 @@
 | Level 0 | 181912 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                   | 2026-07-21 | ✅  | [Java](./src/main/java/l181912/Solution.java) |
 | Level 0 | 181924 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)                | 2026-07-21 | ✅  | [Java](./src/main/java/l181924/Solution.java) |
 | Level 0 | 120886 | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)                   | 2026-07-21 | ✅  | [Java](./src/main/java/l120886/Solution.java) |
+| Level 0 | 181860 | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860)             | 2026-07-21 | ✅  | [Java](./src/main/java/l181860/Solution.java) |
 
 120824 -> 짝수 홀수 개수
