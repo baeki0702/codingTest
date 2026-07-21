@@ -69,5 +69,6 @@
 | Level 0 | 181862 | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862)                   | 2026-07-21 | ✅  | [Java](./src/main/java/l181862/Solution.java) |
 | Level 0 | 181871 | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871)          | 2026-07-21 | ✅  | [Java](./src/main/java/l181871/Solution.java) |
 | Level 0 | 181872 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 2026-07-21 | ✅  | [Java](./src/main/java/l181872/Solution.java) |
+| Level 0 | 181905 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                    | 2026-07-21 | ✅  | [Java](./src/main/java/l181905/Solution.java) |
 
 120824 -> 짝수 홀수 개수
