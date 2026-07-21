@@ -71,5 +71,6 @@
 | Level 0 | 181872 | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 2026-07-21 | ✅  | [Java](./src/main/java/l181872/Solution.java) |
 | Level 0 | 181905 | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905)                    | 2026-07-21 | ✅  | [Java](./src/main/java/l181905/Solution.java) |
 | Level 0 | 181912 | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912)                   | 2026-07-21 | ✅  | [Java](./src/main/java/l181912/Solution.java) |
+| Level 0 | 181924 | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924)                | 2026-07-21 | ✅  | [Java](./src/main/java/l181924/Solution.java) |
 
 120824 -> 짝수 홀수 개수
