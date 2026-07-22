@@ -84,5 +84,6 @@
 | Level 0 | 181894 | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894)                      | 2026-07-22 | ✅  | [Java](./src/main/java/l181894/Solution.java) |
 | Level 0 | 181897 | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897)                    | 2026-07-22 | ✅  | [Java](./src/main/java/l181897/Solution.java) |
 | Level 0 | 181922 | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922)                | 2026-07-22 | ✅  | [Java](./src/main/java/l181922/Solution.java) |
+| Level 0 | 120853 | [컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)                     | 2026-07-22 | ✅  | [Java](./src/main/java/l120853/Solution.java) |
 
 120824 -> 짝수 홀수 개수
