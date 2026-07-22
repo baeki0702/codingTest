@@ -77,5 +77,6 @@
 | Level 0 | 120887 | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)                      | 2026-07-21 | ✅  | [Java](./src/main/java/l120887/Solution.java) |
 | Level 0 | 120835 | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835)                   | 2026-07-22 | ✅  | [Java](./src/main/java/l120835/Solution.java) |
 | Level 0 | 120838 | [모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)                   | 2026-07-22 | ✅  | [Java](./src/main/java/l120838/Solution.java) |
+| Level 0 | 120864 | [숨어있는 숫자의 덧셈 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864)            | 2026-07-22 | ✅  | [Java](./src/main/java/l120864/Solution.java) |
 
 120824 -> 짝수 홀수 개수
