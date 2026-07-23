@@ -1,7 +1,6 @@
 package Sol;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 class Solution {
@@ -17,10 +16,6 @@ class Solution {
     }
 
     static void main() {
-        List<Integer> list = solution(10);
-        String a = "answer";
-        int[] array = list.stream().mapToInt(i -> i.intValue()).toArray();
-
-        System.out.println(Arrays.toString(array));
+        System.out.println("!@#$%^&*(\\'\"<>?:;\n");
     }
 }
