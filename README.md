@@ -89,5 +89,6 @@
 | Level 0 | 181837 | [커피 심부름](https://school.programmers.co.kr/learn/courses/30/lessons/181837)                     | 2026-07-22 | ✅  | [Java](./src/main/java/l181837/Solution.java) |
 | Level 0 | 181859 | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)                   | 2026-07-23 | ✅  | [Java](./src/main/java/l181859/Solution.java) |
 | Level 0 | 181881 | [조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881)           | 2026-07-23 | ✅  | [Java](./src/main/java/l181881/Solution.java) |
+| Level 0 | 181890 | [왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890)                     | 2026-07-23 | ✅  | [Java](./src/main/java/l181890/Solution.java) |
 
 120824 -> 짝수 홀수 개수
