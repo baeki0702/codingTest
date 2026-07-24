@@ -94,5 +94,6 @@
 | Level 0 | 181902 | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902)                   | 2026-07-24 | ✅  | [Java](./src/main/java/l181902/Solution.java) |
 | Level 0 | 120852 | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852)                      | 2026-07-24 | ✅  | [Java](./src/main/java/l120852/Solution.java) |
 | Level 0 | 181913 | [문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913)               | 2026-07-24 | ✅  | [Java](./src/main/java/l181913/Solution.java) |
+| Level 0 | 120880 | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)                     | 2026-07-24 | ✅  | [Java](./src/main/java/l120880/Solution.java) |
 
 120824 -> 짝수 홀수 개수
